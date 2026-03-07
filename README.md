@@ -1,4 +1,4 @@
-> **⚠️ IMPORTANT NOTICE**
+> *⚠️ IMPORTANT NOTICE**
 >
 > **The original repository for this project is currently private.**  
 > If you need access to the source repository or additional implementation details, **please contact the developer directly**.
